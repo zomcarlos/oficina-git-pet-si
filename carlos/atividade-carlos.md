@@ -1,6 +1,6 @@
 <h2> Hi, I'm Carlos Zomer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="230">
-<p><em>Computer Network student at <a href="https://www.ufsm.br/">Federal University of Santa Maria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Computer Network student at <a href="https://www.ufsm.br/">Federal University of Santa Maria</a> since 2023<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: carloszomer](https://img.shields.io/badge/-carloszomer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-zomer-691b45231//)](https://www.linkedin.com/in/carlos-zomer-691b45231/)
